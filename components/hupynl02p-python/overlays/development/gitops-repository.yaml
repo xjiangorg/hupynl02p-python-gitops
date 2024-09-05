@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hupynl02p-python-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/hupynl02p-python-gitops
